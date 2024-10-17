@@ -22,6 +22,6 @@ The project will focus on:
 
 Interested in contributing, collaborating, or learning more?  Reach out!
 
-Email frankonuonyeka@gmail.com
+Email: frankonuonyeka@gmail.com
 
-LinkedIn https://ca.linkedin.com/in/frank-onuh)
+LinkedIn: https://ca.linkedin.com/in/frank-onuh
