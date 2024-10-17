@@ -4,7 +4,7 @@
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
 
-This project addresses a critical gap: limited access to premium digital research tools and infrastructure for promising Black scholars at my university. This disparity hinders their ability to conduct impactful research and contribute fully to the global academic community.
+This is a [Digital Research Alliance of Canada](https://alliancecan.ca/en) funded project that focuses on increasing access to premium digital research tools and infrastructure for budding Black scholars at my University of Lethbridge, equipping them with the skills and ability to conduct impactful research and contribute fully to the global academic community.
 
 𝐌𝐢𝐬𝐬𝐢𝐨𝐧
 
