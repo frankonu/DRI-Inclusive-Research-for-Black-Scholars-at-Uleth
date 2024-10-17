@@ -12,7 +12,7 @@ The project will focus on:
 - Equipping Black scholars with the skills and knowledge needed to effectively utilize digital research tools.
 - Facilitating access to essential DRI tools, unlocking new possibilities for research and innovation.
 
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐏𝐡𝐚𝐬𝐞𝐬:1-4
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐏𝐡𝐚𝐬𝐞𝐬:𝟏-𝟒
 - Project Launch and Awareness Building
 - Training and Skill Development
 - DRI Access and Support
