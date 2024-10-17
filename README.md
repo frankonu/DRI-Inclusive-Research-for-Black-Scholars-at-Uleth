@@ -18,11 +18,9 @@ The project will focus on:
 - DRI Access and Support
 - Community Building and Sustainability
 
-𝐆𝐞𝐭 𝐈𝐧𝐯𝐨𝐥𝐯𝐞𝐝
-
-Interested in contributing, collaborating, or learning more?  Reach out! Let's work together to empower the next generation of Black scholars.
-
 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞
+
+Interested in contributing, collaborating, or learning more?  Reach out!
 
 Email frankonuonyeka@gmail.com
 
